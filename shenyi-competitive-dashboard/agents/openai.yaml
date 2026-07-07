@@ -1,0 +1,4 @@
+interface:
+  display_name: "生意参谋竞品 Dashboard"
+  short_description: "系统化审计生意参谋竞品数据并生成可验证的交互式分析看板"
+  default_prompt: "使用 $shenyi-competitive-dashboard 审计这份生意参谋竞品数据，并在确认口径后制作 Dashboard。"
